@@ -15,13 +15,13 @@ MVC-NY-Times-Sample is MVC sample project which shows popular news which is fetc
 **Please click the image below to enlarge.**
 
 
-<img src="https://github.com/tayyabtariq50/MVC-NY-Times-Sample/blob/master/screenshot.png" height="420" width="240" hspace="20">
+<img src="https://github.com/tayyabtariq50/MVC-NY-Times-Sample-Android/blob/master/screenshot.png" height="420" width="240" hspace="20">
 
 
 ## Contributing
 
 Please fork this repository and contribute back using
-[pull requests](https://github.com/tayyabtariq50/MVC-NY-Times-Sample/pulls).
+[pull requests](https://github.com/tayyabtariq50/MVC-NY-Times-Sample-Android/pulls).
 
 Any contributions, large or small, major features, bug fixes, are welcomed and appreciated
 but will be thoroughly reviewed .
@@ -31,7 +31,7 @@ but will be thoroughly reviewed .
 * [Apache Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
 
 ```
-Copyright 2018 Tayyab Tariq
+Copyright 2019 Tayyab Tariq
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
