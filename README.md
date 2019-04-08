@@ -8,6 +8,7 @@ MVC-NY-Times-Sample is MVC sample project which shows popular news which is fetc
 - Retrofit for api request.
 - Data Fetch from NY Times Popular Api
 - Small example of testing to verify main MainActivity RecyclerView is not null.
+- NY Time Api Auth Key is used directly without hidding. Keys can be shown when application is reversed.This was just sample app so security was ignored.
 
 
 ## Screenshots
