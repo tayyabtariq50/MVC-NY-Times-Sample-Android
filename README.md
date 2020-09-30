@@ -1,4 +1,4 @@
-# MVC-NY-Times-Sample
+# MVC-NY-Times-Sample Model View Controller
 MVC-NY-Times-Sample is MVC sample project which shows popular news which is fetch from NY Times API.
 
 **This application was done in a hurry so MVP + RX Sample project was not coded.**
